@@ -1,6 +1,6 @@
 # UNSKYIT PROPRIETARY DATASET LICENSE
 
-Copyright (c) 2024 UNSKYIT. All Rights Reserved.
+Copyright (c) 2025 UNSKYIT. All Rights Reserved.
 
 This license agreement governs your use of the conversational dataset and its associated content (collectively, "The Dataset") provided in this repository. The Dataset is the exclusive and confidential property of UNSKYIT ("The Owner").
 
@@ -8,7 +8,7 @@ This is not an open-source license.
 
 ## 1. DEFINITIONS
 
-- "The Dataset" refers to the `bot_brain.txt` file and any other data files, including all text, questions, answers, keywords, structures, and conversational flows contained therein.
+- "The Dataset" refers to the `litebase.txt` file and any other data files, including all text, questions, answers, keywords, structures, and conversational flows contained therein.
 - "The Owner" refers to UNSKYIT.
 - "The Software" refers to the official suite of offline tools developed and distributed by The Owner.
 
